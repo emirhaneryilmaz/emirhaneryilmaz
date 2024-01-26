@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhaneryilmaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emirhaneryilmaz&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=emirhaneryilmaz&icon=0&color=12)](https://visitcount.itsvg.in)
 
